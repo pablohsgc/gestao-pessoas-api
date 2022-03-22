@@ -1,1 +1,1 @@
-# gestao-pessoas-api
+# gestao-de-pessoas-spring-boot-api

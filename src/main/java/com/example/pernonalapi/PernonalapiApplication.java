@@ -1,0 +1,13 @@
+package com.example.pernonalapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PernonalapiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PernonalapiApplication.class, args);
+	}
+
+}
